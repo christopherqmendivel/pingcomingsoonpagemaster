@@ -36,6 +36,10 @@ body {
 .container .info {
   text-align: center;
 }
+
+.container .logo {
+   margin-top: 4rem;
+}
 .container .info h2 {
   font-size: 2.5rem;
 }
